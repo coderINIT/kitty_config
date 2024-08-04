@@ -1,0 +1,17 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "notebook.confirmDeleteRunningCell": false,
+    "explorer.confirmDelete": false,
+    "window.menuBarVisibility": "toggle",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "python.defaultInterpreterPath": "/home/gray/tools/venv",
+    "workbench.colorTheme": "Ayu Green Dark",
+    "workbench.tree.indent": 12,
+    "workbench.productIconTheme": "fluent-icons"
+}
